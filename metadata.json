@@ -1,0 +1,5 @@
+{
+  "name": "RailConnect - Next Gen Railway Reservations",
+  "description": "A modern, IRCTC-inspired railway reservation system featuring AI-powered train search, secure booking flow, and comprehensive payment options.",
+  "requestFramePermissions": []
+}
